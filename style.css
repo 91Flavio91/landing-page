@@ -1,0 +1,29 @@
+#nav-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 150px;
+
+    background-color: #1f2937;
+}
+#nav-bar p {
+    margin: 0px;
+
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    color: #f9faf8;
+}
+ul {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 0px;
+    padding: 0px;
+
+    list-style: none;
+}
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #e5e7eb;
+}
