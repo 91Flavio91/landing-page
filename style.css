@@ -118,3 +118,33 @@ h2 {
     text-align: center;
     color: #808080;
 }
+
+
+
+
+#testimonial-section {
+    padding: 130px 300px;
+
+    background-color: #e5e7eb;
+}
+.testimonial {
+    display: flex;
+    flex-direction: column;
+}
+#testimonial-section p {
+    margin: 0px;
+
+    font-size: 36px;
+    font-style: italic;
+    opacity: 0.5;
+    color: #1f2937;
+}
+span {
+    align-self: flex-end;
+    margin-right: 80px;
+
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    color: #1f2937;
+}
