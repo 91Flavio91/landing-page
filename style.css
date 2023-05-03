@@ -148,3 +148,42 @@ span {
     font-family: Verdana, sans-serif;
     color: #1f2937;
 }
+
+
+
+
+#call-to-action-section {
+    padding: 120px 180px;
+}
+.call-to-action-content {
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    padding: 50px 130px;
+
+    background-color: #3882f6;
+}
+.call-to-action-content .text {
+    gap: 0px;
+}
+.call-to-action-content p {
+    margin: 0px;
+}
+p.title {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    color: #f9faf8
+}
+p.description {
+    font-family: Verdana, sans-serif;
+    color: #e5e7eb;
+}
+.call-to-action-content .call-to-action {
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    padding: 10px 40px;
+
+    font-family: Verdana, sans-serif;
+    color: #f9faf8;
+}
